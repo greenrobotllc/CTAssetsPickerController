@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.homepage              = 'https://github.com/greenrobotllc/CTAssetsPickerController'
   spec.screenshot            = 'https://raw.github.com/greenrobotllc/CTAssetsPickerController/master/Screenshot.png'
   spec.license               = { :type => 'MIT', :file => 'LICENSE' }
-  spec.author                = { 'Andy T' => 'andy@greenrobot.com }
+  spec.author                = { 'Andy T' => 'andy@greenrobot.com' }
   spec.social_media_url      = 'https://twitter.com/andytriboletti'
   spec.platform              = :ios, '8.0'
   spec.ios.deployment_target = '8.0'
